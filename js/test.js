@@ -8,7 +8,7 @@ function JavaScript(n) {
                 }   else if (i % 5 === 0) {
                 boom += 'Script'
                 }   else {
-                boom += 'i'
+                boom += i
                 }
         }
     return boom;
